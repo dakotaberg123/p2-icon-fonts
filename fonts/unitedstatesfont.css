@@ -4,11 +4,11 @@
  
 @font-face {
   font-family: "unitedstates";
-  src:url("fonts/unitedstates.eot");
-  src:url("fonts/unitedstates.eot?#iefix") format("embedded-opentype"),
-    url("fonts/unitedstates.ttf") format("truetype"),
-    url("fonts/unitedstates.svg#unitedstates") format("svg"),
-    url("fonts/unitedstates.woff") format("woff");
+  src:url("../css/fonts/unitedstates.eot");
+  src:url("../css/fonts/unitedstates.eot?#iefix") format("embedded-opentype"),
+url("../css/fonts/unitedstates.ttf") format("truetype"),
+url("../css/fonts/unitedstates.svg#unitedstates") format("svg"),
+url("../css/fonts/unitedstates.woff") format("woff");
   font-weight: normal;
   font-style: normal;
 }
